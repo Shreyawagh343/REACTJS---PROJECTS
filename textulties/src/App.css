@@ -1,0 +1,36 @@
+.main textarea {
+    height: 20rem;
+    width: 80%;
+    margin-top: 2rem;
+    margin-left: 9rem;
+    font-size: 1.2rem;
+    border: 1px solid black;
+    padding-left: 2rem;
+    padding-top: 1rem;
+}
+.btn button {
+    width: 10%;
+    height: 3rem;
+    font-size: 1.2rem;
+    background-color: cadetblue;
+    color: white;
+    border: none;
+    margin-top: 1.5rem;
+
+}
+.btn1 {
+    margin-left: 9rem;
+}
+.btn2 {
+    margin-left: 2rem;
+}
+
+.preview {
+    margin-left: 10rem;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+.preview p {
+    font-size: 1.2rem;
+    gap: 2rem;
+}
