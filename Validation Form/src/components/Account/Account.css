@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.main {
+    width: 34%;
+    height: 42rem;
+    margin: 1rem 33rem;
+    background-color: white;
+    border-radius: 5px;
+}
+.main h1 {
+    padding-top: 2rem;
+    padding-left: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.main p {
+    font-size: 1rem;
+    padding-left: 2rem;
+    margin-bottom: 2rem;
+}
+form {
+    display: flex;
+    flex-direction: column;
+}
+form input {
+    width: 75%;
+    height: 2.5rem;
+    margin-left: 2.3rem;
+    padding-left: 1rem;
+    padding-top: 0.2rem;
+    font-size: 1rem;
+    margin-bottom: 0.8rem;
+    border: 0.9px solid grey;
+    
+}
+form label {
+    width: 70%;
+    height: 2.5rem;
+    margin-left: 2.3rem;
+    font-size: 1rem;
+    margin-bottom: -0.9rem;
+    color: grey;
+}
+.confirmpass {
+    margin-top: 1rem;
+}
+.check {
+    display: flex;
+    justify-content: start;
+}
+.check input {
+    margin-left: 2.5rem;
+    width: 3%;
+}
+.check p {
+    margin-top: 0.7rem;
+    margin-left: -0.5rem;
+}
+form button {
+    width: 35%;
+    height: 2.6rem;
+    margin-left: 2.5rem;
+    font-size: 1rem;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    background-color: darkblue;
+}
+form p {
+    margin-left: 8rem;
+    margin-top: 3rem;
+}
+.red {
+    color: red;
+    margin-left: 4rem;
+    margin-top: -0.3rem;
+    margin-bottom: 0.5rem;
+}
